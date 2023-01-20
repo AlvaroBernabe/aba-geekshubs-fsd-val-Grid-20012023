@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+}
+span {
+    text-decoration-color: red;
+}
+
+.documentales {
+    background-color: pink;
+    display: flex;
+}
+.rever {
+    display: flex;
+    max-height: 20vh;
+    background-color: rgb(0, 0, 0);
+}
